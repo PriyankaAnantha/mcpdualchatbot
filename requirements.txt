@@ -1,4 +1,4 @@
 flask==2.3.3
-openai==0.28.1
 mcp[cli]
-asyncio-compat==3.0.1
+flask==2.3.3
+requests==2.31.0

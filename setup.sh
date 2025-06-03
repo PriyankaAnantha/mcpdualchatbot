@@ -9,10 +9,14 @@ python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install requirements
-pip install flask==2.3.3 openai==0.28.1 mcp==0.4.0
+pip install flask==2.3.3 requests==2.31.0 mcp==0.4.0
 
-# Set OpenAI API key 
-export OPENAI_API_KEY="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"
-
-echo "Setup complete! Now run the application with:"
+echo "Setup complete!"
+echo ""
+echo "IMPORTANT: Before running the app, make sure Ollama is installed and running:"
+echo "1. Install Ollama from: https://ollama.ai"
+echo "2. Start Ollama: ollama serve"
+echo "3. Pull a model: ollama pull llama2"
+echo ""
+echo "Then run the application with:"
 echo "python app.py"
