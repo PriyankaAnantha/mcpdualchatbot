@@ -218,14 +218,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Flask](https://flask.palletsprojects.com/)** - Web framework
 - **Meta, Mistral AI, Microsoft** - For open-source models
 
-## 📞 Support
 
-- **Issues**: Create an issue on GitHub
-- **Discussions**: Use GitHub Discussions
-- **Ollama Help**: Visit [ollama.ai/docs](https://ollama.ai/docs)
 
 ---
 
-**Made with ❤️ for the AI community Priyanka A (GitHub: https://github.com/PriyankaAnantha/)**
+**Made with ❤️ for the AI community by Priyanka A (GitHub: https://github.com/PriyankaAnantha/)**
 
 **No API keys required | 100% free and local**
