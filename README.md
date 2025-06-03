@@ -4,6 +4,10 @@ A modern web-based platform that allows you to compare responses between a base 
 
 ![Platform Preview](https://img.shields.io/badge/Status-Ready%20to%20Use-brightgreen) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
+
+![alt text](image.png)
+
+
 ## ✨ Features
 
 - **📊 Side-by-Side Comparison**: Compare base LLM vs RAG-enhanced responses
